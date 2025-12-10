@@ -8,3 +8,11 @@ localai-wsl-client/
 ├── DASHBOARD.tsx           ← Lean from public (or fallback)
 └── logs/                   ← Cascade output
 iNTUITIV.ascend
+localai-wsl-client/
+├── gh0stat_public/         ← Cloned @4be5c23 (dashboard.sh ingested)
+├── models/optimized/       ← 1B–3B Q4_K_M (bench-proven)
+├── results/                ← dashboard-baseline.txt + optimized.txt + tooltest.txt
+├── sovietai/               ← Symlinked vault (configs/models/etc.)
+├── gh0stat_dashboard.sh    ← Core 72-line bootstrap (from commit)
+├── DASHBOARD.tsx           ← Lean from public (or fallback)
+└── logs/                   ← Cascade output
