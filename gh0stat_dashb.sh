@@ -1,3 +1,12 @@
+##############################################
+######## iNTUITIV.ascend ########
+##############################################
+######## README.md ##############
+##############################################
+#### gh0stat|s3v3n2|n07_AFAIK ###
+##############################################
+### ASCII Sketch of the Graph ###
+##############################################
 #!/usr/bin/env bash
 # iNTUITIV.ascend Ghost-Tree Cascade v7.5 – r341 Canon (NONORDO-safe, post-4be5c23 probe)
 # ?//? → Non-existent SHA workaround: rm + fresh clone + fsck prune → full bootstrap
